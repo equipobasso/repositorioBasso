@@ -37,7 +37,7 @@ public class Persona {
 		this.nombre = nombre;
 	}
 	/**
-	 *Obtenemos la edads
+	 *Obtenemos la edad
 	 * @return
 	 */
 
