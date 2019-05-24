@@ -35,6 +35,12 @@ public class Persona {
 	public void setNacionalidad(String nacionalidad) {
 		this.nacionalidad = nacionalidad;
 	}
+
+	@Override
+	public String toString() {
+		return "Persona [nombre=" + nombre + ", edad=" + edad + ", nacionalidad=" + nacionalidad + "]";
+	}
+	
 	
 	
 }
