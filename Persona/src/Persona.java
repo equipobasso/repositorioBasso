@@ -23,7 +23,7 @@ public class Persona {
 		this.nacionalidad = nacionalidad;
 	}
 	/**
-	 * Obtenemos el nombre.
+	 * Obtenemos el nombre
 	 * @return
 	 */
 	public String getNombre() {
